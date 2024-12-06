@@ -2,9 +2,9 @@
   "name": "message-stream-render-react-observable",
   "description": "Message stream render with React and Observable",
   "version": "0.1.0",
-  "author": "davedevx (https://github.com/davedevx)",
+  "author": "iamdave86 (https://github.com/iamdave86)",
   "license": "MIT",
-  "repository": "https://github.com/davedevx/message-stream-render-react-observable",
+  "repository": "https://github.com/iamdave86/message-stream-render-react-observable",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
